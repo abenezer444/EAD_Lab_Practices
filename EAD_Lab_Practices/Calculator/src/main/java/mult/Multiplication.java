@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Multiplication
+ * Servlet implementation class Multiplican
  */
 @WebServlet("/Multiplication")
 public class Multiplication extends HttpServlet {
